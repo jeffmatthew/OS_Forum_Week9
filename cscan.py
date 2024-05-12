@@ -1,5 +1,3 @@
-# C-SCAN (Circular SCAN) Algorithm
-
 def c_scan(initial_head, requests):
     total_head_movements = 0
     current_head = initial_head
