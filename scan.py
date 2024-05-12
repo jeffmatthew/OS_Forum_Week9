@@ -1,5 +1,3 @@
-# SCAN Algorithm
-
 def scan(initial_head, requests):
     total_head_movements = 0
     current_head = initial_head
