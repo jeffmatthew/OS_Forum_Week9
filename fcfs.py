@@ -1,5 +1,3 @@
-# FCFS (First-Come, First-Served) Algorithm
-
 def fcfs(initial_head, requests):
     current_head = initial_head
     total_head_movements = 0
